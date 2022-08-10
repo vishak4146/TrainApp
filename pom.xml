@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.co.train.reservation.sys</groupId>
 	<artifactId>Train-Reservation-System</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Train-Reservation-System Maven Webapp</name>
 	<url>http://maven.apache.org</url>
