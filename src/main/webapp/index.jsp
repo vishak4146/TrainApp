@@ -1,0 +1,1 @@
+<% response.sendRedirect("/Train-Reservation-System/welcome");%>
