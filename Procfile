@@ -1,1 +1,1 @@
-web: java -jar target/Train-Reservation-System.jar web.xml
+web: java -jar target/Train-Reservation-System.jar /Train-Reservation-System/src/main/webapp/WEB-INF/web.xml
