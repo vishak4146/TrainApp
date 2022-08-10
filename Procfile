@@ -1,1 +1,1 @@
-web: java -jar target/Train-Reservation-System-1.0.jar
+web: java -jar target/Train-Reservation-System-1.0.jar Train-Reservation-System.war
