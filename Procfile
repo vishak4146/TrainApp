@@ -1,1 +1,1 @@
-web: java -jar target/Train-Reservation-System.jar 
+web: java -jar target/Train-Reservation-System.jar index.jsp
