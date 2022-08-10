@@ -1,1 +1,1 @@
-web: java -jar target/Train-Reservation-System.jar /Train-Reservation-System/src/main/java/in/co/train/reservation/sys/controller/BaseCtl.java
+web: java -jar target/Train-Reservation-System.jar ./../Train-Reservation-System/src/main/webapp/WEB-INF/web.xml
